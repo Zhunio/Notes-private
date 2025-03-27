@@ -22,6 +22,11 @@
 | Capital One    | $0.00     |
 | TOTAL          | $5,422.46     |
 
+## How much do I need to earn:
+
+- Weekly: $1,355.62
+- Bi-Weekly: $2,711.23
+
 ## Loans
 
 | Loan     | Amount     |
