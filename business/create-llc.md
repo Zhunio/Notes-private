@@ -4,7 +4,7 @@
 - [x] 2. Check name availability on the NY Department of State website.
 - [x] 3. File Articles of Organization with the NY Department of State.
 - [x] 4. Designate a Registered Agent.
-- [-] 5. Create an Operating Agreement.
+- [-] 5. Create an Operating Agreement: Later
 - [-] 6. Apply for an EIN (Employer Identification Number) from the IRS.
 - [-] 7. Register for state taxes with the NYS Department of Taxation and Finance.
 - [-] 8. Publish a notice of LLC formation in two newspapers (if required).
