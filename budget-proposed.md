@@ -16,12 +16,12 @@
 | Netflix        | $24.85    |
 | Spotify        | $19.99    |
 | Planet Fitness | $10.00    |
-| TOTAL          | $4,667.71 |
+| TOTAL          | $3,667.71 |
 
 ## How much do I need to earn:
 
-- Weekly: $916.60
-- Bi-Weekly: $1,833.20
+- Weekly: $916.93
+- Bi-Weekly: $1,833.86
 
 ## Loans
 
