@@ -23,6 +23,11 @@
 - Weekly: $916.93
 - Bi-Weekly: $1,833.86
 
+## Jobs
+
+1. Landscaper: 50 hours/week * $20.00/hour = $1,000.00/week
+2. Engineer: 40 hours/week * $50.00/hour = $2,000.00/week - 25% tax = $1,500.00/week
+
 ## Loans
 
 | Loan     | Amount     |
