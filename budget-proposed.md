@@ -6,8 +6,9 @@
 | -------------- | --------- |
 | Rent           | $1,550.00 |
 | Groceries      | $1,000.00 |
-| SoFi           | $473.81   |
+| SoFi           | $513.43   |
 | Progressive    | $210.50   |
+| Gas            | $200.00   |
 | Central Hudson | $150.00   |
 | Sprint         | $142.97   |
 | WiFi           | $34.99    |
@@ -16,17 +17,19 @@
 | Netflix        | $24.85    |
 | Spotify        | $19.99    |
 | Planet Fitness | $10.00    |
-| TOTAL          | $3,667.71 |
 
-## How much do I need to earn:
+## How much do I need to earn?
 
-- Weekly: $916.93
-- Bi-Weekly: $1,833.86
+| Frequency | Amount    |
+| --------- | --------- |
+| Weekly    | $976.83   |
+| Bi-Weekly | $1,953.67 |
+| Monthly   | $3,907.33 |
 
 ## Jobs
 
-1. Landscaper: 50 hours/week * $20.00/hour = $1,000.00/week
-2. Engineer: 40 hours/week * $50.00/hour = $2,000.00/week - 25% tax = $1,500.00/week
+1. Landscaper: 50 hours/week \* $20.00/hour = $1,000.00/week
+2. Engineer: 40 hours/week \* $50.00/hour = $2,000.00/week - 25% tax = $1,500.00/week
 
 ## Loans
 
