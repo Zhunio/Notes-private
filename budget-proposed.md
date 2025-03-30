@@ -26,14 +26,16 @@
 | Bi-Weekly | $1,953.67 |
 | Monthly   | $3,907.33 |
 
-## Jobs
+## Which jobs can I take?
 
-1. Landscaper: 50 hours/week \* $20.00/hour = $1,000.00/week
-2. Engineer: 40 hours/week \* $50.00/hour = $2,000.00/week - 25% tax = $1,500.00/week
+| Role       | Hours/Month | Rate/Hour | Monthly Pay | Monthly Expenses | Tax Deduction | Net       |
+| ---------- | ----------- | --------- | ----------- | ---------------- | ------------- | --------- |
+| Landscaper | 200         | $20.00    | $4,000.00   | $3,907.33        | N/A           | $92.67    |
+| Engineer   | 160         | $50.00    | $8,000.00   | $3,907.33        | 25%           | $2,092.67 |
 
-## Loans
+## Debts
 
-| Loan     | Amount     |
+| Debt     | Amount     |
 | -------- | ---------- |
 | Hyundai  | $10,948.95 |
 | Cadillac | $7,653.00  |
