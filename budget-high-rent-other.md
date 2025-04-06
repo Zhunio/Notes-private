@@ -28,7 +28,7 @@
 
 ## Which jobs can I take?
 
-| Role       | Hours/Month | Rate/Hour | Monthly Pay | Tax Deduction | Monthly Expenses | Net   |
-| ---------- | ----------- | --------- | ----------- | ------------- | ---------------- | ----- |
-| Landscaper | 200         | $20.00    | $4,000.00   | N/A           | $4,000.00        | $0.00 |
-| Other      | 60          | $17.00    | $1,020.00   | $255 @ 25%    | $401.68          | $619  |
+| Role       | Hours/Month  | Rate/Hour | Monthly Pay | Tax Deduction | Monthly Expenses | Net     |
+| ---------- | ------------ | --------- | ----------- | ------------- | ---------------- | ------- |
+| Landscaper | 200          | $20.00    | $4,000.00   | N/A           | $4,000.00        | $0.00   |
+| Other      | 5h x 3d x 4w | $15.00    | $900        | $225 @ 25%    | $401.68          | $273.32 |
