@@ -38,3 +38,7 @@ Income required for invernation: $3,673.90 x 4 months = $14,695.60
 Savings for invernation: $726.10 x 8 months = $2,904.40
 
 Amount needed for invernation: $16,695.60 - $2,904.60 = $13,791.00
+
+## How much does side gig need too make?
+
+$20 per hour x 30 hours x 4 weeks x 8 months = $19,200
