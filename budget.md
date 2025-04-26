@@ -1,4 +1,4 @@
-# Budget High Rent
+# Budget
 
 ## Monthly Expenses
 
