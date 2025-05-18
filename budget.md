@@ -14,7 +14,7 @@
 | WiFi           | $34.99    |
 | Spectrum       | $25.55    |
 | Planet Fitness | $25.05    |
-| Netflix        | $24.85    |
+| Netflix        | $27.02    |
 | Spotify        | $19.99    |
 | Planet Fitness | $10.00    |
 
