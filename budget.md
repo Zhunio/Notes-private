@@ -2,21 +2,22 @@
 
 ## Monthly Expenses
 
-| Expense        | Amount    |
-| -------------- | --------- |
-| Rent           | $1,550.00 |
-| Groceries      | $800.00   |
-| Cars           | $520.36   |
-| Progressive    | $210.50   |
-| Gas            | $160.00   |
-| Central Hudson | $150.00   |
-| Sprint         | $142.97   |
-| WiFi           | $34.99    |
-| Spectrum       | $25.55    |
-| Planet Fitness | $25.05    |
-| Netflix        | $27.02    |
-| Spotify        | $19.99    |
-| Planet Fitness | $10.00    |
+| Expense         | Amount    |
+| --------------- | --------- |
+| Rent            | $1,550.00 |
+| Groceries       | $800.00   |
+| Cars            | $516.26   |
+| Progressive     | $210.50   |
+| Gas             | $160.00   |
+| Central Hudson  | $150.00   |
+| Sprint          | $142.97   |
+| WiFi            | $34.99    |
+| Spectrum        | $25.55    |
+| Planet Fitness  | $25.05    |
+| Netflix         | $27.02    |
+| Spotify         | $19.99    |
+| YouTube Premium | $13.99    |
+| Planet Fitness  | $10.00    |
 
 ## Income
 
