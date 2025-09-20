@@ -1,21 +1,10 @@
 # Carlos Pena Progressive
 
-## First Quote
+## Quote
 
-- Comprehensive: 1k with $50 Glass Deductible
+- Comprehensive: 1k
 - Collision: 1k
 
-Premium (6 months): $1,495.00
-Monthly: $249.17
+Premium (6 months): $1,409.00
+Monthly: $234.83
 
-## Second Quote
-
-- Honda
-  - Comprehensive: 1k with $50 Glass Deductible
-  - Collision: 1k
-- Mercedes
-  - Comprehensive: No Coverage
-  - Collision: No Coverage
-
-Premium (6 months): $1,189.00
-Monthly: $198.17
