@@ -6,13 +6,15 @@
 | --------------- | --------- |
 | Rent            | $1,550.00 |
 | Groceries       | $800.00   |
-| Cars            | $516.26   |
+| Cars            | $513.35   |
+| Lunch (Richard) | $240.00   |
+| Lunch (Damaris) | $240.00   |
 | Progressive     | $210.50   |
-| Gas             | $160.00   |
 | Central Hudson  | $150.00   |
 | Sprint          | $142.97   |
-| WiFi            | $34.99    |
-| Spectrum        | $25.55    |
+| Gas (Cadillac)  | $80.00    |
+| Gas (Hyundai)   | $80.00    |
+| WiFi            | $59.99    |
 | Planet Fitness  | $25.05    |
 | Netflix         | $27.02    |
 | Spotify         | $19.99    |
@@ -21,25 +23,20 @@
 
 ## Income
 
-| Frequency | Amount    |
-| --------- | --------- |
-| Monthly   | $3,673.90 |
-| Bi-Weekly | $1,826.95 |
-| Weekly    | $918.475  |
+| Frequency | Amount     |
+| --------- | ---------- |
+| Monthly   | $4,162.86  |
+| Weekly    | $1,040.715 |
 
 ## Savings
 
-| Role       | Hours/Month | Rate/Hour | Monthly Pay | Tax Deduction | Monthly Expenses | Net     |
-| ---------- | ----------- | --------- | ----------- | ------------- | ---------------- | ------- |
-| Landscaper | 220         | $20.00    | $4,400.00   | N/A           | $4,400.00        | $726.10 |
+| Role       | Pay (Weekly) | Monthly Pay | Monthly Expenses | Net    |
+| ---------- | ------------ | ----------- | ---------------- | ------ |
+| Landscaper | $1,050       | $4,200.00   | $4,162.86        | $37.14 |
 
-## How much do I need for winter? December (4 weeks), January (4 weeks), February (4 weeks), March (4 weeks)?
+## How much do I need for winter?
 
-Income required for invernation: $3,673.90 x 4 months = $14,695.60
-Savings for invernation: $726.10 x 8 months = $2,904.40
-
-Amount needed for invernation: $16,695.60 - $2,904.60 = $13,791.00
-
-## How much does side gig need too make?
-
-$20 per hour x 30 hours x 4 weeks x 8 months = $19,200
+- December (4 weeks): $4,162.86
+- January (4 weeks): $4,162.86
+- February (4 weeks): $4,162.86
+- **TOTAL: $12,488.58**
