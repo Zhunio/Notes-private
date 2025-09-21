@@ -7,13 +7,11 @@
 | Rent            | $1,550.00 |
 | Groceries       | $800.00   |
 | Cars            | $513.35   |
-| Lunch (Richard) | $240.00   |
-| Lunch (Damaris) | $240.00   |
+| Lunch           | $480.00   |
 | Progressive     | $210.50   |
+| Gas             | $160.00   |
 | Central Hudson  | $150.00   |
-| Sprint          | $142.97   |
-| Gas (Cadillac)  | $80.00    |
-| Gas (Hyundai)   | $80.00    |
+| Sprint          | $112.63   |
 | WiFi            | $59.99    |
 | Planet Fitness  | $25.05    |
 | Netflix         | $27.02    |
@@ -23,16 +21,16 @@
 
 ## Income
 
-| Frequency | Amount     |
-| --------- | ---------- |
-| Monthly   | $4,162.86  |
-| Weekly    | $1,040.715 |
+| Frequency | Amount    |
+| --------- | --------- |
+| Monthly   | $4,132.17 |
+| Weekly    | $1,033.04 |
 
 ## Savings
 
 | Role       | Pay (Weekly) | Monthly Pay | Monthly Expenses | Net    |
 | ---------- | ------------ | ----------- | ---------------- | ------ |
-| Landscaper | $1,050       | $4,200.00   | $4,162.86        | $37.14 |
+| Landscaper | $1,050       | $4,200.00   | $4,132.17        | $67.83 |
 
 ## How much do I need for winter?
 
