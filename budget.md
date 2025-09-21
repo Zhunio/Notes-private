@@ -34,7 +34,7 @@
 
 ## How much do I need for winter?
 
-- December (4 weeks): $4,162.86
-- January (4 weeks): $4,162.86
-- February (4 weeks): $4,162.86
-- **TOTAL: $12,488.58**
+- December (4 weeks): $4,132.17
+- January (4 weeks): $4,132.17
+- February (4 weeks): $4,132.17
+- **TOTAL: $12,396.51**
