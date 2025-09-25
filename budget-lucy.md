@@ -8,7 +8,7 @@
 | Rent                    | $800.00       |
 | Gas ($200 Weekly)       | $800.00       |
 | Ecuador                 | $455.00       |
-| Credit Cards            | $308.00       |
+| Credit Cards (36 mo)    | $308.00       |
 | T-Mobile                | $230.00       |
 | Gold's Gym              | $50.00        |
 | Gold's Gym              | $50.00        |
