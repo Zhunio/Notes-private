@@ -19,19 +19,19 @@
 | YouTube Premium         | $13.99    |
 | Copilot                 | $10.81    |
 | Planet Fitness          | $10.00    |
-| iCloud+                 | $0.99     |
 | iCloud+                 | $2.99     |
+| iCloud+                 | $0.99     |
 
 ## Income
 
 | Frequency | Amount    |
 | --------- | --------- |
-| Monthly   | $3,652.52 |
-| Weekly    | $913.13   |
+| Monthly   | $3,697.31 |
+| Weekly    | $924.33   |
 
 ## Savings
 
-| Role             | Pay (Weekly) | Monthly Pay | Monthly Expenses | Net        |
-| ---------------- | ------------ | ----------- | ---------------- | ---------- |
-| Plummer          | $680         | $2,720      | $4,132.17        | -$1,411.17 |
-| Dental Assistant | $481         | $1,924      | $1,411.17        | $512.83    |
+| Role             | Pay (Weekly) | Monthly Pay | Monthly Expenses | Net      |
+| ---------------- | ------------ | ----------- | ---------------- | -------- |
+| Plummer          | $680         | $2,720      | $3,697.31        | -$977.31 |
+| Dental Assistant | $481         | $1,924      | $977.31          | $946.69  |
