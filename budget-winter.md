@@ -12,11 +12,15 @@
 | Central Hudson          | $150.00   |
 | Sprint                  | $112.63   |
 | WiFi                    | $59.99    |
+| BestBuy Credit Card     | $30.00    |
 | Planet Fitness          | $25.05    |
 | Netflix                 | $27.02    |
 | Spotify                 | $19.99    |
 | YouTube Premium         | $13.99    |
+| Copilot                 | $10.81    |
 | Planet Fitness          | $10.00    |
+| iCloud+                 | $0.99     |
+| iCloud+                 | $2.99     |
 
 ## Income
 
