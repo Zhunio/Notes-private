@@ -31,7 +31,7 @@
 
 ## Savings
 
-| Role             | Pay (Weekly) | Monthly Pay | Monthly Expenses | Net      |
-| ---------------- | ------------ | ----------- | ---------------- | -------- |
-| Plummer          | $680         | $2,720      | $3,697.31        | -$977.31 |
-| Dental Assistant | $481         | $1,924      | $977.31          | $946.69  |
+| Role             | Pay (Weekly) | Monthly Pay | Monthly Expenses | Net       |
+| ---------------- | ------------ | ----------- | ---------------- | --------- |
+| Plummer          | $900         | $3,600      | $3,697.31        | -$97.31   |
+| Dental Assistant | $481         | $1,924      | $97.31           | $1,826.69 |
