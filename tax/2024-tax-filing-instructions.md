@@ -2,43 +2,43 @@
 
 ## Buy
 
-- [-] Buy 2 envelopes (9x12 inches)
-- [-] Buy $14.00 money order for Federal tax payment
-- [-] Buy 2 stamps
+- [x] Buy 2 envelopes (9x12 inches)
+- [x] Buy $14.00 money order for Federal tax payment
+- [x] Buy 2 stamps
 
 ## Do
 
-- [-] Detach Copy B of W-2s
-- [-] Detach Form 1040-V (payment voucher) for Federal tax payment
+- [x] Detach Copy B of W-2s
+- [x] Detach Form 1040-V (payment voucher) for Federal tax payment
 
 ## File 2024 Federal Tax by Mail
 
-- [-] SIGN AND DATE your return
-- [-] Mail money order for $14.00
+- [x] SIGN AND DATE your return
+- [x] Mail money order for $14.00
   - Payable to "United States Treasury"
   - Memo: Social Security Number + " 2024 Form 1040"
-- [-] Attach Copy B of W-2s to the front of your Form 1040
-- [-] Write **FROM** address (on the top left):
+- [x] Attach Copy B of W-2s to the front of your Form 1040
+- [x] Write **FROM** address (on the top left):
   Richard Zhunio
   Your Street Address
   Your City, State, ZIP Code
-- [-] Write **TO** address (in the center):
+- [x] Write **TO** address (in the center):
   Internal Revenue Service
   P.O. Box 931000
   Louisville, KY 40293-1000
-- [-] DO NOT SEND TURBOTAX INSTRUCTIONS
-- [-] Add stamp to the envelope
+- [x] DO NOT SEND TURBOTAX INSTRUCTIONS
+- [x] Add stamp to the envelope
 
 ## File 2024 New York State Tax by Mail
 
-- [-] SIGN AND DATE your return
-- [-] Do not attach copies of W-2s to your NY State return
-- [-] Write **FROM** address (on the top left):
+- [x] SIGN AND DATE your return
+- [x] Do not attach copies of W-2s to your NY State return
+- [x] Write **FROM** address (on the top left):
   Richard Zhunio
   Your Street Address
   Your City, State, ZIP Code
-- [-] Write **TO** address (in the center):
+- [x] Write **TO** address (in the center):
   State Processing Center
   PO Box 6100
   Albany, NY 12261-0001
-- [-] Add stamp to the envelope
+- [x] Add stamp to the envelope
