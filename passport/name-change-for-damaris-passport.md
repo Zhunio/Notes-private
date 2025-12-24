@@ -11,6 +11,3 @@ Renew passport using [Form DS-82](https://pptform.state.gov/)
 - [-] [Fees](https://travel.state.gov/content/travel/en/passports/how-apply/fees.html) 
 - [-] Send Form DS-82 and supporting documents using USPS, UPS, FedEx, DHL to the PO Box listed on Form DS-82
 
-
-
-
