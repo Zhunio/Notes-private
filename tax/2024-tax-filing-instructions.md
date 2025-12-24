@@ -42,3 +42,7 @@
   PO Box 6100
   Albany, NY 12261-0001
 - [x] Add stamp to the envelope
+
+## Mail Both Envelopes
+
+- [-] Drop both envelopes in a USPS mailbox
