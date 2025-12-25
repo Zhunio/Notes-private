@@ -6,6 +6,7 @@ Renew passport using [Form DS-82](https://pptform.state.gov/)
 
 - [-] U.S. passport
 - [-] Certified copy of marriage certificate
+- [-] One passport photo (2x2 inches, white background)
 
 ## Submit the following by mail:
 
