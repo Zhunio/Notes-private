@@ -9,6 +9,3 @@
 - [-] Wife's Passport
 - [-] Son's Birth Certificate
 
-## Payment
-
-$1,000
