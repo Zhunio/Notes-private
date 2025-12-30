@@ -29,7 +29,7 @@ Same structure every day. Rotate foods.
   - 2-3 strawberries
   - ONE of these:
     - Pancake
-    - Yogurt (+ oatmeal)
+    - Yogurt
     - Oatmeal
 - Lunch
   - Water
