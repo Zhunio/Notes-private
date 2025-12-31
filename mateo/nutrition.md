@@ -28,6 +28,7 @@ Same structure every day. Rotate foods.
   - 8 oz milk
   - 2-3 strawberries
   - ONE of these:
+    - Crepe
     - Pancake
     - Yogurt
     - Oatmeal
@@ -35,7 +36,7 @@ Same structure every day. Rotate foods.
   - Water
   - ONE of these:
     - Yogurt
-    - Cheese + crackers
+    - Cheese
     - Beans
   - Bread, rice or pasta
   - Small fruit
