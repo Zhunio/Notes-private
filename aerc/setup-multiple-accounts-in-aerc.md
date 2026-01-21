@@ -45,3 +45,14 @@ oauth2l fetch \
 --cache ~/.oauth2l \
 --refresh
 ```
+
+```conf
+# ~/.config/aerc/folder-map.conf
+Spam = [Gmail]/Spam
+All Mail = [Gmail]/All Mail
+Drafts = [Gmail]/Drafts
+Important = [Gmail]/Important
+Sent Mail = [Gmail]/Sent Mail
+Starred = [Gmail]/Starred
+Trash = [Gmail]/Trash
+```
