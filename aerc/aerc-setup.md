@@ -1,4 +1,4 @@
-# Setup for multiple email accounts in aerc
+# Aerc Setup
 
 ```sh
 brew install aerc oauth2l
