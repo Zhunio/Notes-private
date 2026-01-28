@@ -10,25 +10,70 @@ brew install imapfilter
 
 ```lua
 -- ~/.config/imapfilter/config.lua
-options.timeout = 120
-options.subscribe = true
-
 icloud = IMAP({
 	server = "imap.mail.me.com",
 	username = "<email>",
-	password = "<password>",
+	password = "<app-specific-password>",
 	ssl = "tls1",
 })
 
 inbox = icloud["INBOX"]
 
--- Move GitHub emails
-github = inbox:contain_from("github.com")
-github:move_messages(icloud["GitHub"])
+local rules = {
+	-- Password Managers
+	["1password"] = "PasswordManager",
 
-kohls = inbox:contain_from("kohls.com")
-kohls:move_messages(icloud["Junk"])
+	-- Car
+	["hyundai"] = "Car",
+	["libertymutual"] = "Car",
+	["progressive.com"] = "Car",
+	["e-zpass"] = "Car",
+	["onstart.com"] = "Car",
 
+	-- Work
+	["nbcuni.com"] = "Work",
+	["empower"] = "Work",
+	["fidelity"] = "Work",
+	["unitedconcordia"] = "Work",
+	["motionrecruitment"] = "Work",
+
+	-- Travel
+	["expedia"] = "Travel",
+	["booking.com"] = "Travel",
+
+	-- Taxes
+	["wildwoodwealth"] = "Taxes",
+
+	-- Education
+	["linkedin"] = "Education",
+	["parchment"] = "Education",
+	["suny"] = "Education",
+	["newpaltz"] = "Education",
+
+	-- Immigration
+	["uscis"] = "Immigration",
+
+	-- Banking
+	["capitalone"] = "Banking",
+	["discover"] = "Banking",
+	["ally"] = "Banking",
+	["Credit Karma"] = "Banking",
+	["coopgualaquiza.fin.ec"] = "Banking",
+
+	-- Hosting
+	["namecheap"] = "Hosting",
+	["hostinger"] = "Hosting",
+
+	-- Shopping
+	["bestbuy.com"] = "Shopping",
+
+	-- Spectrum
+	["spectrum"] = "Spectrum",
+}
+
+for from, folder in pairs(rules) do
+	inbox:contain_from(from):move_messages(icloud[folder])
+end
 ```
 
 ## 3. Setup cron job
@@ -48,10 +93,10 @@ crontab -e
 This cron job runs imapfilter every 5 minutes and appends the output to the log file.
 
 ```bash
-*/5 * * * * /usr/local/bin/imapfilter -c /Users/<user>/.config/imapfilter/config.lua >> /Users/<user>/.imapfilter/logs/imapfilter.log 2>&1
+*/5 * * * * /usr/local/bin/imapfilter -c /Users/<user>/.config/imapfilter/config.lua >> /Users/<user>/.local/state/imapfilter/imapfilter.log 2>&1
 ```
 
 > [NOTE]
 > <user> username on your macOS
 > <email> imap email
-> <password> imap password
+> <app-specific-password> imap password
