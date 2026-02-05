@@ -12,7 +12,7 @@
       - Receiving Items
     - [x] Can WMS handle these features?
       - Yes, but the workflow is different
-    - [-] Document what's different between RF-Smart and WMS for these features
-      - Bin Transfers by Bin
-      - Bin Transfers by Lot Number
-      - Receiving Items
+    - [~] Document what's different between RF-Smart and WMS for these features
+      - [x] Bin Transfers by Bin
+      - [x] Bin Transfers by Lot Number
+      - [~] Receiving Items
