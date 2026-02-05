@@ -1,17 +1,4 @@
-# Replacing RF-Smart with Netsuite WMS
-
-I want to replace RF-Smart with Netsuite WMS. The main reason for this switch is pricing.
-
-One caveat
-
-- We tried switching WMS, but it seems we need to enable Pick, Pack, and Ship feature Netsuite. I don't know what Pick, Pack, and Ship feature is. But from more experience users, it seems Pick, Pack, and Ship feature is not needed for our use case. So, enabling it won't be an option for us.
-- Can you explain what that is, and if we actually need to turn it on?
-- From higher ups, it seems we can only use WMS if Pick, Pack, and Ship feature is enabled. And that won't be an option. 
-- I'm still new and need to understand why, but we will not enable Pick, Pack, and Ship feature.
-- I'm Software Engineer, so another option, would be to develop custom web app (angular, vue, react) to talk to REST API of Netsuite and develop only the features we need.
-- Can you advise here what's best approach? also filling in the gaps in my understanding?
-
-Here is a list of what we use RF-Smart for:
+# Replace RF-Smart with Netsuite WMS
 
 - Bin transfers
   - Bin transer per pound
