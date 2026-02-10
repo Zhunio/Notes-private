@@ -14,7 +14,7 @@
     - Advanced Shipping
     - Pick, Pack, and Ship
   - [x] Items & Inventory
-    - Basic Inventory Management (not visible)
+    - Basic Inventory Management (missing)
     - Multi-Location Inventory
     - Bin Management
     - Advanced Bin / Numbered Inventory Mangement
