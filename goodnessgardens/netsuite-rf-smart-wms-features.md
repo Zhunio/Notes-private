@@ -1,4 +1,4 @@
-# Replace RF-Smart with Netsuite WMS
+# Netsuite RF-Smart & WMS Features
 
 ## Bin Transfer by Lot Number
 
