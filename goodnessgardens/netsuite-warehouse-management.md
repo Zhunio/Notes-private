@@ -2,12 +2,12 @@
 
 ## Netsuite WMS setup
 
-- [x] Installing the Netsuite WMS SuiteApps
+- [x] 1. Installing the Netsuite WMS SuiteApps
   - Go to Customization > SuiteBuilder > Search & Install Bundles
   - Install the following bundles:
     - SCM Mobile - **572631**
     - Oracle Netsuite WMS - **572325**
-- [x] Enabling Prerequisite Features for Netsuite WMS
+- [x] 2. Enabling Prerequisite Features for Netsuite WMS
   - [x] Company
     - Multiple Units of Measure
   - [x] Transactions
@@ -38,8 +38,8 @@
       - Invetory Status
       - Inventory Count
       - Advanced Item Location Configuration
-- [ ] Activate the Enable Warehouse Management system rule
-- [ ] Warehouse Management Roles and Permissions
+- [ ] 3. Activate the Enable Warehouse Management system rule
+- [ ] 4. Warehouse Management Roles and Permissions
 
 ## Netsuite WMS post-setup
 
