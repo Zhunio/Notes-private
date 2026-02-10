@@ -25,7 +25,17 @@
     - Client SuiteScript
     - Server SuiteScript
   - [ ] Additional Features for Netsuite WMS
-  - [ ] Warehouse Management Feature and System Rule
+    - Bar Codes and Item Labels
+    - Assembly Items
+    - Assembly Work Orders
+    - Serial Numbered List
+    - Lot Numbered Items
+    - Invetory Status
+    - Inventory Count
+    - Advanced Item Location Configuration
+    - Inbound Shipment Management
+    - Advanced Receiving
+    - Intercompany Cross-Susidiary Fullfillment
 - [ ] Activate the Enable Warehouse Management system rule
 - [ ] Warehouse Management Roles and Permissions
 
