@@ -24,18 +24,20 @@
     - Advanced PDF/HTML Templates
     - Client SuiteScript
     - Server SuiteScript
-  - [ ] Additional Features for Netsuite WMS
-    - Bar Codes and Item Labels
-    - Assembly Items
-    - Assembly Work Orders
-    - Serial Numbered List
-    - Lot Numbered Items
-    - Invetory Status
-    - Inventory Count
-    - Advanced Item Location Configuration
-    - Inbound Shipment Management
-    - Advanced Receiving
+  - [x] Additional Features for Netsuite WMS
+    - [x] Transactions
+      - Inbound Shipment Management
+      - Advanced Receiving
     - Intercompany Cross-Susidiary Fullfillment
+    - [x] Items & Inventory
+      - Bar Coding and Item Labels
+      - Assembly Items
+      - Work Orders
+      - Serialized Inventory **(disabled**)
+      - Lot Tracking
+      - Invetory Status
+      - Inventory Count
+      - Advanced Item Location Configuration
 - [ ] Activate the Enable Warehouse Management system rule
 - [ ] Warehouse Management Roles and Permissions
 
