@@ -7,24 +7,23 @@
   - 2. Install the following bundles:
     - SCM Mobile - **572631**
     - Oracle Netsuite WMS - **572325**
-- [ ] Enabling Features for Netsuite WMS
-  - [ ] Prerequisite Features for Netsuite WMS:
-    - [ ] Company
-      - Multiple Units of Measure
-    - [ ] Transactions
-      - Advanced Shipping
-      - Pick, Pack, and Ship
-    - [ ] Items & Inventory
-      - Basic Inventory Management
-      - Multi-Location Inventory
-      - Bin Management
-      - Advanced Bin / Numbered Inventory Mangement
-      - Advanced Inventory Management
-    - [ ] SuiteCloud
-      - Custom Records
-      - Advanced PDF/HTML Templates
-      - Client SuiteScript
-      - Server SuiteScript
+- [x] Enabling Prerequisite Features for Netsuite WMS
+  - [x] Company
+    - Multiple Units of Measure
+  - [x] Transactions
+    - Advanced Shipping
+    - Pick, Pack, and Ship
+  - [x] Items & Inventory
+    - Basic Inventory Management (not visible)
+    - Multi-Location Inventory
+    - Bin Management
+    - Advanced Bin / Numbered Inventory Mangement
+    - Advanced Inventory Management
+  - [x] SuiteCloud
+    - Custom Records
+    - Advanced PDF/HTML Templates
+    - Client SuiteScript
+    - Server SuiteScript
   - [ ] Additional Features for Netsuite WMS
   - [ ] Warehouse Management Feature and System Rule
 - [ ] Activate the Enable Warehouse Management system rule
