@@ -3,8 +3,8 @@
 ## Netsuite WMS setup
 
 - [x] Installing the Netsuite WMS SuiteApps
-  - 1. Go to Customization > SuiteBuilder > Search & Install Bundles
-  - 2. Install the following bundles:
+  - Go to Customization > SuiteBuilder > Search & Install Bundles
+  - Install the following bundles:
     - SCM Mobile - **572631**
     - Oracle Netsuite WMS - **572325**
 - [x] Enabling Prerequisite Features for Netsuite WMS
