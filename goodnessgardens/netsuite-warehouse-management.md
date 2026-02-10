@@ -2,7 +2,7 @@
 
 ## Netsuite WMS setup
 
-- [ ] Installing the Netsuite WMS SuiteApps
+- [x] Installing the Netsuite WMS SuiteApps
   - 1. Go to Customization > SuiteBuilder > Search & Install Bundles
   - 2. Install the following bundles:
     - SCM Mobile - **572631**
