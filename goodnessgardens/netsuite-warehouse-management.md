@@ -42,7 +42,7 @@
   - Using the **WMS Warehouse Manager** role, go to WMS Configuration > Configure Warehouse -> System Rules
   - Activate the following rules:
     - Enable Warehouse Management
-- [ ] 4. Warehouse Management Roles and Permissions
+- [x] 4. Warehouse Management Roles and Permissions
 
 ## Netsuite WMS post-setup
 
