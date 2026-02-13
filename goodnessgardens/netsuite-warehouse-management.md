@@ -43,6 +43,26 @@
   - Activate the following rules:
     - Enable Warehouse Management
 - [x] 4. Warehouse Management Roles and Permissions
+  - To create or update records for your warehouse configuration:
+    - Creating Warehouse Locations
+    - Configuring Records for Locations with Bins
+    - Creating Item Stock Locations
+  - To create or update records for warehouse or shipping items and order types:
+    - Creating Item Process Families
+    - Creating Item Process Groups
+    - Creating Inventory Statuses
+    - Setting Up Units for Pick Decomposition
+    - Creating Items for NetSuite WMS
+    - Creating Item Aliases
+    - Creating Order types
+    - Defining a UCC Code Format
+    - Creating Carrier Service Levels
+  - To customize outbound processing templates and forms according to your business requirements:
+    - Creating Custom Wave Criteria Templates
+    - Creating a Custom Pick Ticket Saved Search
+    - Creating a Custom Advanced Templates for Pick Tickets
+    - Creating Custom Wave Forms
+    - Setting Up Custom Packing Lists
 
 ## Netsuite WMS post-setup
 
