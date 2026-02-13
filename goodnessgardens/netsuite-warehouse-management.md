@@ -66,14 +66,14 @@
 
 ## Netsuite WMS post-setup
 
-- [ ] Warehouse Management Records and Templates
-- [ ] Setting Warehouse Management Preferences
-- [ ] Warehouse Management Strategies
-- [ ] Setting Up Bin Block for Order Picking
-- [ ] Mobile App Setup
-- [ ] System Rules for Netsuite WMS
-- [ ] Creating a Wave Release Schedule
-- [ ] Netsuite WMS Shipping Integration
+- [x] Warehouse Management Records and Templates
+- [x] Setting Warehouse Management Preferences
+- [x] Warehouse Management Strategies
+- [x] Setting Up Bin Block for Order Picking
+- [x] Mobile App Setup
+- [x] System Rules for Netsuite WMS
+- [x] Creating a Wave Release Schedule
+- [x] Netsuite WMS Shipping Integration
 
 ### Configuring Netsuite WMS for Location With No Bins
 
