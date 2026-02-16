@@ -1,9 +1,9 @@
-# Netsuite Warehouse Mangement
+# Netsuite Warehouse Management
 
 ## Netsuite WMS setup
 
 - [x] 1. Installing the Netsuite WMS SuiteApps
-  - Go to Customization > SuiteBuilder > Search & Install Bundles
+  - Go to Customization > SuiteBundler > Search & Install Bundles
   - Install the following bundles:
     - SCM Mobile - **572631**
     - Oracle Netsuite WMS - **572325**
@@ -14,10 +14,10 @@
     - Advanced Shipping
     - Pick, Pack, and Ship
   - [x] Items & Inventory
-    - Basic Inventory Management (missing)
+    - Basic Inventory Management
     - Multi-Location Inventory
     - Bin Management
-    - Advanced Bin / Numbered Inventory Mangement
+    - Advanced Bin / Numbered Inventory Management
     - Advanced Inventory Management
   - [x] SuiteCloud
     - Custom Records
@@ -28,14 +28,14 @@
     - [x] Transactions
       - Inbound Shipment Management
       - Advanced Receiving
-    - Intercompany Cross-Susidiary Fullfillment
+    - Intercompany Cross-Subsidiary Fulfillment
     - [x] Items & Inventory
       - Bar Coding and Item Labels
       - Assembly Items
       - Work Orders
-      - Serialized Inventory **(disabled**)
+      - Serialized Inventory (disabled; not required for our current process)
       - Lot Tracking
-      - Invetory Status
+      - Inventory Status
       - Inventory Count
       - Advanced Item Location Configuration
 - [x] 3. Activate the Enable Warehouse Management system rule
