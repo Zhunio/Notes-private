@@ -43,6 +43,15 @@
   - Activate the following rules:
     - Enable Warehouse Management
 - [x] 4. Warehouse Management Roles and Permissions
+  - **Administrator** - To enable features, install SuiteApps, and create or manage records for NetSuite WMS
+  - **Mobile Administrator** - To customize and configure mobile processes and mobile printing
+  - **WMS Web Services Admin** - To access and use the NSWMS Printer Driver Application
+  - **WMS Warehouse Manager** - To perform setup procedures for mobile processes, such as activating system rules and creating item aliases or cycle count plans
+    - **WMS Inbound Manager** - For inbound processing records and tasks only
+    - **WMS Outbound Manager** - For outbound processing records and tasks only
+  - **WMS Mobile Operator**
+    - **WMS Inbound Operator** - For inbound processing tasks and outbound picking through mobile
+    - **WMS Outbound Operator** - For outbound processing tasks only
   - To create or update records for your warehouse configuration:
     - Creating Warehouse Locations
     - Configuring Records for Locations with Bins
