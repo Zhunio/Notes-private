@@ -51,11 +51,11 @@
 
 ## 4. Add "WMS Mixed Items" fields to Custom Form
 
-- [ ] Go to Assembly/Inventory Item (i.e "ANCDPZ03GG", "2OZBASTUBE") > Edit > Custom Form
-- [ ] Go to Fields > NS WMS
-- [ ] Check the "Show" box for the following fields:
-  - [ ] WMS MIX LOTS IN BINS
-  - [ ] WMS MIX ITEMS IN BINS
+- [x] Go to Assembly/Inventory Item (i.e "ANCDPZ03GG", "2OZBASTUBE") > Edit > Customize > Custom Form
+- [x] Go to Fields > NS WMS
+- [x] Check the "Show" box for the following fields:
+  - [x] WMS MIX LOTS IN BINS
+  - [x] WMS MIX ITEMS IN BINS
 
 ## 5. Setup WMS Mass Update for Item records
 
