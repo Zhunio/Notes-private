@@ -12,9 +12,8 @@
 - [x] Go to Setup > Company > Enable Features
   - [x] Company
     - [x] Multiple Units of Measure
-  - [~] Transactions
+  - [x] Transactions
     - [x] Advanced Shipping
-    - [~] Pick, Pack, and Ship
   - [x] Items & Inventory
     - [x] Inventory (Basic Inventory Management)
     - [x] Multi-Location Inventory
@@ -30,8 +29,8 @@
     - [x] Transactions
       - [x] Inbound Shipment Management
       - [x] Advanced Receiving
-    - [~] Items & Inventory
-      - [~] Warehouse Management
+    - [x] Items & Inventory
+      - [x] Warehouse Management
       - [x] Intercompany Cross-Subsidiary Fulfillment
       - [x] Bar Coding and Item Labels
       - [x] Assembly Items
@@ -42,8 +41,11 @@
       - [x] Inventory Count
       - [x] Advanced Item Location Configuration
 
-## 3. Change Default Item Fulfillment Status to "Shipped"
+## 3. Enable Pick, Pack, and Ship Feature
 
+- [ ] Go to Setup > Company > Enable Features
+  - [ ] Transactions
+    - [ ] Pick, Pack, and Ship
 - [ ] Go to Setup > Accounting > Setup Shipping
 - [ ] Change "Default Item Fulfillment Stage" to "Shipped"
 
@@ -66,13 +68,19 @@
   - [ ] WMS MIX LOTS IN BINS - Set to "Yes"
   - [ ] WMS MIX ITEMS IN BINS - Set to "Yes"
 
-## 6. Activate the Enable Warehouse Management system rule
+## 6. Enable Warehouse Management Feature
+
+- [ ] Go to Setup > Company > Enable Features
+  - [ ] Items & Inventory
+    - [ ] Warehouse Management
+
+## 7. Activate the Enable Warehouse Management system rule
 
 - Using the **WMS Warehouse Manager** role, go to WMS Configuration > Configure Warehouse -> System Rules
 - Activate the following rules:
   - Enable Warehouse Management
 
-## 7. Warehouse Management Roles and Permissions
+## 8. Warehouse Management Roles and Permissions
 
 ### Warehouse Management Roles
 
@@ -90,7 +98,7 @@
 
 [NetSuite WMS Roles and Permissions](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_156520480478.html#subsect_156520614424)
 
-## 8. Warehouse Management Records and Templates
+## 9. Warehouse Management Records and Templates
 
 - To create or update records for your warehouse configuration:
   - Creating Warehouse Locations
@@ -113,19 +121,19 @@
   - Creating Custom Wave Forms
   - Setting Up Custom Packing Lists
 
-## 9. Setting Warehouse Management Preferences
+## 10. Setting Warehouse Management Preferences
 
-## 10. Warehouse Management Strategies
+## 11. Warehouse Management Strategies
 
-## 11. Setting Up Bin Block for Order Picking
+## 12. Setting Up Bin Block for Order Picking
 
-## 12. Mobile App Setup
+## 13. Mobile App Setup
 
-## 13. Netsuite WMS Shipping Integration
+## 14. Netsuite WMS Shipping Integration
 
-## 14. Electronic Data Interchange (EDI) Integration Setup
+## 15. Electronic Data Interchange (EDI) Integration Setup
 
-## 15. Mobile Device for Netsuite WMS
+## 16. Mobile Device for Netsuite WMS
 
 ### Accessing Bins on the App
 
