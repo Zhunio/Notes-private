@@ -7,37 +7,37 @@
   - [x] Install the following bundles:
     - [x] SCM Mobile - **572631**
     - [x] Oracle Netsuite WMS - **572325**
-- [ ] 2. Enabling Prerequisite Features for Netsuite WMS
-  - [ ] Company
-    - Multiple Units of Measure
-  - [ ] Transactions
-    - Advanced Shipping
-    - Pick, Pack, and Ship
-  - [ ] Items & Inventory
-    - Basic Inventory Management
-    - Multi-Location Inventory
-    - Bin Management
-    - Advanced Bin / Numbered Inventory Management
-    - Advanced Inventory Management
-  - [ ] SuiteCloud
-    - Custom Records
-    - Advanced PDF/HTML Templates
-    - Client SuiteScript
-    - Server SuiteScript
-  - [ ] Additional Features for Netsuite WMS
-    - [ ] Transactions
-      - Inbound Shipment Management
-      - Advanced Receiving
-    - Intercompany Cross-Subsidiary Fulfillment
-    - [ ] Items & Inventory
-      - Bar Coding and Item Labels
-      - Assembly Items
-      - Work Orders
-      - Serialized Inventory (disabled; not required for our current process)
-      - Lot Tracking
-      - Inventory Status
-      - Inventory Count
-      - Advanced Item Location Configuration
+- [x] 2. Enabling Prerequisite Features for Netsuite WMS
+  - [x] Company
+    - [x] Multiple Units of Measure
+  - [~] Transactions
+    - [x] Advanced Shipping
+    - [~] Pick, Pack, and Ship
+  - [x] Items & Inventory
+    - [x] Inventory (Basic Inventory Management)
+    - [x] Multi-Location Inventory
+    - [x] Bin Management
+    - [x] Advanced Bin / Numbered Inventory Management
+    - [x] Advanced Inventory Management
+  - [x] SuiteCloud
+    - [x] Custom Records
+    - [x] Advanced PDF/HTML Templates
+    - [x] Client SuiteScript
+    - [x] Server SuiteScript
+  - [x] Additional Features for Netsuite WMS
+    - [x] Transactions
+      - [x] Inbound Shipment Management
+      - [x] Advanced Receiving
+    - [x] Items & Inventory
+      - [x] Intercompany Cross-Subsidiary Fulfillment
+      - [x] Bar Coding and Item Labels
+      - [x] Assembly Items
+      - [x] Work Orders
+      - [ ] Serialized Inventory (disabled; not required for our current process)
+      - [x] Lot Tracking
+      - [x] Inventory Status
+      - [x] Inventory Count
+      - [x] Advanced Item Location Configuration
 - [ ] 3. Activate the Enable Warehouse Management system rule
   - Using the **WMS Warehouse Manager** role, go to WMS Configuration > Configure Warehouse -> System Rules
   - Activate the following rules:
