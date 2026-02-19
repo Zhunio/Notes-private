@@ -41,15 +41,7 @@
       - [x] Inventory Count
       - [x] Advanced Item Location Configuration
 
-## 3. Enable Pick, Pack, and Ship Feature
-
-- [ ] Go to Setup > Company > Enable Features
-  - [ ] Transactions
-    - [ ] Pick, Pack, and Ship
-- [ ] Go to Setup > Accounting > Setup Shipping
-- [ ] Change "Default Item Fulfillment Stage" to "Shipped"
-
-## 4. Add "WMS Mixed Items" fields to Custom Form
+## 3. Add "WMS Mixed Items" fields to Custom Form
 
 - [x] Go to Assembly/Inventory Item (i.e "ANCDPZ03GG", "2OZBASTUBE") > Edit > Customize > Custom Form
 - [x] Go to Fields > NS WMS
@@ -57,7 +49,7 @@
   - [x] WMS MIX LOTS IN BINS
   - [x] WMS MIX ITEMS IN BINS
 
-## 5. Setup WMS Mass Update for Item records
+## 4. Setup WMS Mass Update for Item records
 
 - [ ] Go to Lists > Mass Update > Mass Updates
 - [ ] Go to General Updates > Items > Assembly/Inventory Item
@@ -68,10 +60,18 @@
   - [ ] WMS MIX LOTS IN BINS - Set to "Yes"
   - [ ] WMS MIX ITEMS IN BINS - Set to "Yes"
 
-## 6. Setup Custom Label for WMS Mobile App
+## 5. Setup Custom Label for WMS Mobile App
 
 - [ ] Go to LPC Admin > Configuration > Label Design
 - Edit the "3x2 ITEM RECEIPT LABEL (LOT QR)" template
+
+## 6. Enable Pick, Pack, and Ship Feature
+
+- [ ] Go to Setup > Company > Enable Features
+  - [ ] Transactions
+    - [ ] Pick, Pack, and Ship
+- [ ] Go to Setup > Accounting > Setup Shipping
+- [ ] Change "Default Item Fulfillment Stage" to "Shipped"
 
 ## 7. Enable Warehouse Management Feature
 
