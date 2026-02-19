@@ -66,13 +66,13 @@
   - [ ] WMS MIX LOTS IN BINS - Set to "Yes"
   - [ ] WMS MIX ITEMS IN BINS - Set to "Yes"
 
-## 4. Activate the Enable Warehouse Management system rule
+## 6. Activate the Enable Warehouse Management system rule
 
 - Using the **WMS Warehouse Manager** role, go to WMS Configuration > Configure Warehouse -> System Rules
 - Activate the following rules:
   - Enable Warehouse Management
 
-## 5. Warehouse Management Roles and Permissions
+## 7. Warehouse Management Roles and Permissions
 
 ### Warehouse Management Roles
 
@@ -90,7 +90,7 @@
 
 [NetSuite WMS Roles and Permissions](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_156520480478.html#subsect_156520614424)
 
-## 6. Warehouse Management Records and Templates
+## 8. Warehouse Management Records and Templates
 
 - To create or update records for your warehouse configuration:
   - Creating Warehouse Locations
@@ -113,19 +113,19 @@
   - Creating Custom Wave Forms
   - Setting Up Custom Packing Lists
 
-## 7. Setting Warehouse Management Preferences
+## 9. Setting Warehouse Management Preferences
 
-## 8. Warehouse Management Strategies
+## 10. Warehouse Management Strategies
 
-## 9. Setting Up Bin Block for Order Picking
+## 11. Setting Up Bin Block for Order Picking
 
-## 10. Mobile App Setup
+## 12. Mobile App Setup
 
-## 11. Netsuite WMS Shipping Integration
+## 13. Netsuite WMS Shipping Integration
 
-## 12. Electronic Data Interchange (EDI) Integration Setup
+## 14. Electronic Data Interchange (EDI) Integration Setup
 
-## 13. Mobile Device for Netsuite WMS
+## 15. Mobile Device for Netsuite WMS
 
 ### Accessing Bins on the App
 
