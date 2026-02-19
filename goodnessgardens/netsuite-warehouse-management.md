@@ -51,14 +51,14 @@
 
 ## 4. Setup WMS Mass Update for Item records
 
-- [ ] Go to Lists > Mass Update > Mass Updates
-- [ ] Go to General Updates > Items > Assembly/Inventory Item
-- [ ] In the Results tab, add the following fields:
-  - [ ] WMS MIX LOTS IN BINS
-  - [ ] WMS MIX ITEMS IN BINS
-- [ ] In the Mass Update Fields tab, add the following fields:
-  - [ ] WMS MIX LOTS IN BINS - Set to "Yes"
-  - [ ] WMS MIX ITEMS IN BINS - Set to "Yes"
+- [x] Go to Lists > Mass Update > Mass Updates
+- [x] Go to General Updates > Items > Assembly/Inventory Item
+- [x] In the Results tab, add the following fields:
+  - [x] WMS MIX LOTS IN BINS
+  - [x] WMS MIX ITEMS IN BINS
+- [x] In the Mass Update Fields tab, add the following fields:
+  - [x] WMS MIX LOTS IN BINS - Set to "Yes"
+  - [x] WMS MIX ITEMS IN BINS - Set to "Yes"
 
 ## 5. Setup Custom Label for WMS Mobile App
 
