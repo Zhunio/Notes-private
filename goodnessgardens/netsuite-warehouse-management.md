@@ -99,3 +99,13 @@
 ## 10. Netsuite WMS Shipping Integration
 
 ## 11. Electronic Data Interchange (EDI) Integration Setup
+
+## 12. Mobile Device for Netsuite WMS
+
+### Accessing Bins on the App
+
+### Inventory Status on Mobile Devices
+
+### Multiple Units of Measure (UOM) on Mobile Devices
+
+### Mobile Device Transactions
