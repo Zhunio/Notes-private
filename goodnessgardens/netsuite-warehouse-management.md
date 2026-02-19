@@ -68,19 +68,24 @@
   - [ ] WMS MIX LOTS IN BINS - Set to "Yes"
   - [ ] WMS MIX ITEMS IN BINS - Set to "Yes"
 
-## 6. Enable Warehouse Management Feature
+## 6. Setup Custom Label for WMS Mobile App
+
+- [ ] Go to LPC Admin > Configuration > Label Design
+- Edit the "3x2 ITEM RECEIPT LABEL (LOT QR)" template
+
+## 7. Enable Warehouse Management Feature
 
 - [ ] Go to Setup > Company > Enable Features
   - [ ] Items & Inventory
     - [ ] Warehouse Management
 
-## 7. Activate the Enable Warehouse Management system rule
+## 8. Activate the Enable Warehouse Management system rule
 
 - Using the **WMS Warehouse Manager** role, go to WMS Configuration > Configure Warehouse -> System Rules
 - Activate the following rules:
   - Enable Warehouse Management
 
-## 8. Warehouse Management Roles and Permissions
+## 9. Warehouse Management Roles and Permissions
 
 ### Warehouse Management Roles
 
@@ -98,7 +103,7 @@
 
 [NetSuite WMS Roles and Permissions](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_156520480478.html#subsect_156520614424)
 
-## 9. Warehouse Management Records and Templates
+## 10. Warehouse Management Records and Templates
 
 - To create or update records for your warehouse configuration:
   - Creating Warehouse Locations
@@ -121,19 +126,19 @@
   - Creating Custom Wave Forms
   - Setting Up Custom Packing Lists
 
-## 10. Setting Warehouse Management Preferences
+## 11. Setting Warehouse Management Preferences
 
-## 11. Warehouse Management Strategies
+## 12. Warehouse Management Strategies
 
-## 12. Setting Up Bin Block for Order Picking
+## 13. Setting Up Bin Block for Order Picking
 
-## 13. Mobile App Setup
+## 14. Mobile App Setup
 
-## 14. Netsuite WMS Shipping Integration
+## 15. Netsuite WMS Shipping Integration
 
-## 15. Electronic Data Interchange (EDI) Integration Setup
+## 16. Electronic Data Interchange (EDI) Integration Setup
 
-## 16. Mobile Device for Netsuite WMS
+## 17. Mobile Device for Netsuite WMS
 
 ### Accessing Bins on the App
 
