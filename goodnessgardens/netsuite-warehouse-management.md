@@ -41,13 +41,18 @@
       - [x] Inventory Count
       - [x] Advanced Item Location Configuration
 
-## 3. Activate the Enable Warehouse Management system rule
+## 3. Change Default Item Fulfillment Status to "Shipped"
+
+- [ ] Go to Setup > Accounting > Setup Shipping
+- [ ] Change "Default Item Fulfillment Stage" to "Shipped"
+
+## 4. Activate the Enable Warehouse Management system rule
 
 - Using the **WMS Warehouse Manager** role, go to WMS Configuration > Configure Warehouse -> System Rules
 - Activate the following rules:
   - Enable Warehouse Management
 
-## 4. Warehouse Management Roles and Permissions
+## 5. Warehouse Management Roles and Permissions
 
 ### Warehouse Management Roles
 
@@ -65,7 +70,7 @@
 
 [NetSuite WMS Roles and Permissions](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_156520480478.html#subsect_156520614424)
 
-## 5. Warehouse Management Records and Templates
+## 6. Warehouse Management Records and Templates
 
 - To create or update records for your warehouse configuration:
   - Creating Warehouse Locations
@@ -88,19 +93,19 @@
   - Creating Custom Wave Forms
   - Setting Up Custom Packing Lists
 
-## 6. Setting Warehouse Management Preferences
+## 7. Setting Warehouse Management Preferences
 
-## 7. Warehouse Management Strategies
+## 8. Warehouse Management Strategies
 
-## 8. Setting Up Bin Block for Order Picking
+## 9. Setting Up Bin Block for Order Picking
 
-## 9. Mobile App Setup
+## 10. Mobile App Setup
 
-## 10. Netsuite WMS Shipping Integration
+## 11. Netsuite WMS Shipping Integration
 
-## 11. Electronic Data Interchange (EDI) Integration Setup
+## 12. Electronic Data Interchange (EDI) Integration Setup
 
-## 12. Mobile Device for Netsuite WMS
+## 13. Mobile Device for Netsuite WMS
 
 ### Accessing Bins on the App
 
