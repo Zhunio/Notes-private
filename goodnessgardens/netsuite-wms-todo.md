@@ -1,3 +1,0 @@
-# Netsuite WMS TODO
-
-
