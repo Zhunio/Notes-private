@@ -2,34 +2,34 @@
 
 ## Netsuite WMS setup
 
-- [x] 1. Installing the Netsuite WMS SuiteApps
+- [ ] 1. Installing the Netsuite WMS SuiteApps
   - Go to Customization > SuiteBundler > Search & Install Bundles
   - Install the following bundles:
     - SCM Mobile - **572631**
     - Oracle Netsuite WMS - **572325**
-- [x] 2. Enabling Prerequisite Features for Netsuite WMS
-  - [x] Company
+- [ ] 2. Enabling Prerequisite Features for Netsuite WMS
+  - [ ] Company
     - Multiple Units of Measure
-  - [x] Transactions
+  - [ ] Transactions
     - Advanced Shipping
     - Pick, Pack, and Ship
-  - [x] Items & Inventory
+  - [ ] Items & Inventory
     - Basic Inventory Management
     - Multi-Location Inventory
     - Bin Management
     - Advanced Bin / Numbered Inventory Management
     - Advanced Inventory Management
-  - [x] SuiteCloud
+  - [ ] SuiteCloud
     - Custom Records
     - Advanced PDF/HTML Templates
     - Client SuiteScript
     - Server SuiteScript
-  - [x] Additional Features for Netsuite WMS
-    - [x] Transactions
+  - [ ] Additional Features for Netsuite WMS
+    - [ ] Transactions
       - Inbound Shipment Management
       - Advanced Receiving
     - Intercompany Cross-Subsidiary Fulfillment
-    - [x] Items & Inventory
+    - [ ] Items & Inventory
       - Bar Coding and Item Labels
       - Assembly Items
       - Work Orders
@@ -38,11 +38,11 @@
       - Inventory Status
       - Inventory Count
       - Advanced Item Location Configuration
-- [x] 3. Activate the Enable Warehouse Management system rule
+- [ ] 3. Activate the Enable Warehouse Management system rule
   - Using the **WMS Warehouse Manager** role, go to WMS Configuration > Configure Warehouse -> System Rules
   - Activate the following rules:
     - Enable Warehouse Management
-- [x] 4. Warehouse Management Roles and Permissions
+- [ ] 4. Warehouse Management Roles and Permissions
   - **Administrator** - To enable features, install SuiteApps, and create or manage records for NetSuite WMS
   - **Mobile Administrator** - To customize and configure mobile processes and mobile printing
   - **WMS Web Services Admin** - To access and use the NSWMS Printer Driver Application
@@ -75,14 +75,14 @@
 
 ## Netsuite WMS post-setup
 
-- [x] Warehouse Management Records and Templates
-- [x] Setting Warehouse Management Preferences
-- [x] Warehouse Management Strategies
-- [x] Setting Up Bin Block for Order Picking
-- [x] Mobile App Setup
-- [x] System Rules for Netsuite WMS
-- [x] Creating a Wave Release Schedule
-- [x] Netsuite WMS Shipping Integration
+- [ ] Warehouse Management Records and Templates
+- [ ] Setting Warehouse Management Preferences
+- [ ] Warehouse Management Strategies
+- [ ] Setting Up Bin Block for Order Picking
+- [ ] Mobile App Setup
+- [ ] System Rules for Netsuite WMS
+- [ ] Creating a Wave Release Schedule
+- [ ] Netsuite WMS Shipping Integration
 
 ### Configuring Netsuite WMS for Location With No Bins
 
