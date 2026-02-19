@@ -30,7 +30,8 @@
     - [x] Transactions
       - [x] Inbound Shipment Management
       - [x] Advanced Receiving
-    - [x] Items & Inventory
+    - [~] Items & Inventory
+      - [~] Warehouse Management
       - [x] Intercompany Cross-Subsidiary Fulfillment
       - [x] Bar Coding and Item Labels
       - [x] Assembly Items
@@ -45,6 +46,25 @@
 
 - [ ] Go to Setup > Accounting > Setup Shipping
 - [ ] Change "Default Item Fulfillment Stage" to "Shipped"
+
+## 4. Add "WMS Mixed Items" fields to Custom Form
+
+- [ ] Go to Assembly/Inventory Item (i.e "ANCDPZ03GG", "2OZBASTUBE") > Edit > Custom Form
+- [ ] Go to Fields > NS WMS
+- [ ] Check the "Show" box for the following fields:
+  - [ ] WMS MIX LOTS IN BINS
+  - [ ] WMS MIX ITEMS IN BINS
+
+## 5. Setup WMS Mass Update for Item records
+
+- [ ] Go to Lists > Mass Update > Mass Updates
+- [ ] Go to General Updates > Items > Assembly/Inventory Item
+- [ ] In the Results tab, add the following fields:
+  - [ ] WMS MIX LOTS IN BINS
+  - [ ] WMS MIX ITEMS IN BINS
+- [ ] In the Mass Update Fields tab, add the following fields:
+  - [ ] WMS MIX LOTS IN BINS - Set to "Yes"
+  - [ ] WMS MIX ITEMS IN BINS - Set to "Yes"
 
 ## 4. Activate the Enable Warehouse Management system rule
 
