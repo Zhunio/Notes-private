@@ -63,7 +63,7 @@
 
 ### Warehouse Management Permissions
 
-For the permissions, please refer to the [NetSuite WMS Roles and Permissions](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_156520480478.html#subsect_156520614424) documentation for detailed information on the specific permissions required for each role.
+[NetSuite WMS Roles and Permissions](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_156520480478.html#subsect_156520614424)
 
 ## 5. Warehouse Management Records and Templates
 
