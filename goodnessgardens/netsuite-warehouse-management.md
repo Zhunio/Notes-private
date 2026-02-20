@@ -97,14 +97,14 @@ Zhunio ~ Template
 - Activate the following rules:
   - [ ] Enable Warehouse Management
 
-## Enable Warehouse Management for Locations
+## 9. Enable Warehouse Management for Locations
 
 - Go to Setup > Company > Locations
 - For each location
   - [ ] Check the "Use BINS" box
   - [ ] Check the "Use Warehouse Management" box
 
-## Setup Roles for some Users
+## 10. Setup Roles for some Users
 
 - Go to Setup > Users/Roles > Manage Users
 - Assign the following roles to each user:
@@ -117,7 +117,7 @@ Zhunio ~ Template
     - [ ] Vishua
     - [ ] James
 
-## 9. Warehouse Management Roles and Permissions
+## 11. Warehouse Management Roles and Permissions
 
 ### Warehouse Management Roles
 
@@ -135,7 +135,7 @@ Zhunio ~ Template
 
 [NetSuite WMS Roles and Permissions](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_156520480478.html#subsect_156520614424)
 
-## 10. Warehouse Management Records and Templates
+## 12. Warehouse Management Records and Templates
 
 - To create or update records for your warehouse configuration:
   - Creating Warehouse Locations
@@ -158,19 +158,19 @@ Zhunio ~ Template
   - Creating Custom Wave Forms
   - Setting Up Custom Packing Lists
 
-## 11. Setting Warehouse Management Preferences
+## 13. Setting Warehouse Management Preferences
 
-## 12. Warehouse Management Strategies
+## 14. Warehouse Management Strategies
 
-## 13. Setting Up Bin Block for Order Picking
+## 15. Setting Up Bin Block for Order Picking
 
-## 14. Mobile App Setup
+## 16. Mobile App Setup
 
-## 15. Netsuite WMS Shipping Integration
+## 17. Netsuite WMS Shipping Integration
 
-## 16. Electronic Data Interchange (EDI) Integration Setup
+## 18. Electronic Data Interchange (EDI) Integration Setup
 
-## 17. Mobile Device for Netsuite WMS
+## 19. Mobile Device for Netsuite WMS
 
 ### Accessing Bins on the App
 
