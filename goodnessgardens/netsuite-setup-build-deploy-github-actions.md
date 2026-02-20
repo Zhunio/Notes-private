@@ -114,7 +114,7 @@ suitecloud project:validate --server
 }
 ```
 
-## 9. Create Build GHA Workflow
+## 10. Create Build GHA Workflow
 
 ```yaml
 # .github/workflows/build.yml
@@ -161,7 +161,7 @@ jobs:
         run: npm run suitecloud:project:validate
 ```
 
-## 10. Create Deploy GHA Workflow
+## 11. Create Deploy GHA Workflow
 
 ```yaml
 # .github/workflows/deploy.yml
