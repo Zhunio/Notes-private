@@ -87,15 +87,35 @@ Zhunio ~ Template
 
 ## 7. Enable Warehouse Management Feature
 
-- [ ] Go to Setup > Company > Enable Features
-  - [ ] Items & Inventory
+- Go to Setup > Company > Enable Features
+  - Items & Inventory
     - [ ] Warehouse Management
 
 ## 8. Activate the Enable Warehouse Management system rule
 
 - Using the **WMS Warehouse Manager** role, go to WMS Configuration > Configure Warehouse -> System Rules
 - Activate the following rules:
-  - Enable Warehouse Management
+  - [ ] Enable Warehouse Management
+
+## Enable Warehouse Management for Locations
+
+- Go to Setup > Company > Locations
+- For each location
+  - [ ] Check the "Use BINS" box
+  - [ ] Check the "Use Warehouse Management" box
+
+## Setup Roles for some Users
+
+- Go to Setup > Users/Roles > Manage Users
+- Assign the following roles to each user:
+  - WMS Warehouse Manager
+    - [ ] Daniel
+    - [ ] Richard
+    - [ ] Michelle
+    - [ ] Erick
+    - [ ] Walter
+    - [ ] Vishua
+    - [ ] James
 
 ## 9. Warehouse Management Roles and Permissions
 
