@@ -49,7 +49,15 @@
   - [x] WMS MIX LOTS IN BINS
   - [x] WMS MIX ITEMS IN BINS
 
-## 4. Setup WMS Mass Update for Item records
+## 4. Enable Pick, Pack, and Ship Feature
+
+- [x] Go to Setup > Company > Enable Features
+  - [x] Transactions
+    - [x] Pick, Pack, and Ship
+- [x] Go to Setup > Accounting > Shipping
+- [x] Change "Default Item Fulfillment Stage" to "Shipped"
+
+## 5. Setup WMS Mass Update for Item records
 
 - [x] Go to Lists > Mass Update > Mass Updates
 - [x] Go to General Updates > Items > Assembly/Inventory Item
@@ -60,24 +68,16 @@
   - [x] WMS MIX LOTS IN BINS - Set to "Yes"
   - [x] WMS MIX ITEMS IN BINS - Set to "Yes"
 
-## 5. Enable Pick, Pack, and Ship Feature
+## 6. Setup Custom Label for WMS Mobile App
 
-- [x] Go to Setup > Company > Enable Features
-  - [x] Transactions
-    - [x] Pick, Pack, and Ship
-- [x] Go to Setup > Accounting > Shipping
-- [x] Change "Default Item Fulfillment Stage" to "Shipped"
+- [ ] Go to LPC Admin > Configuration > Label Design
+- Edit the "3x2 ITEM RECEIPT LABEL (LOT QR)" template
 
-## 6. Enable Warehouse Management Feature
+## 7. Enable Warehouse Management Feature
 
 - [ ] Go to Setup > Company > Enable Features
   - [ ] Items & Inventory
     - [ ] Warehouse Management
-
-## 7. Setup Custom Label for WMS Mobile App
-
-- [ ] Go to LPC Admin > Configuration > Label Design
-- Edit the "3x2 ITEM RECEIPT LABEL (LOT QR)" template
 
 ## 8. Activate the Enable Warehouse Management system rule
 
