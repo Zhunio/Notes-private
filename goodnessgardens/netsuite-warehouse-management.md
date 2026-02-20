@@ -62,11 +62,11 @@
 
 ## 5. Enable Pick, Pack, and Ship Feature
 
-- [ ] Go to Setup > Company > Enable Features
-  - [ ] Transactions
-    - [ ] Pick, Pack, and Ship
-- [ ] Go to Setup > Accounting > Setup Shipping
-- [ ] Change "Default Item Fulfillment Stage" to "Shipped"
+- [x] Go to Setup > Company > Enable Features
+  - [x] Transactions
+    - [x] Pick, Pack, and Ship
+- [x] Go to Setup > Accounting > Shipping
+- [x] Change "Default Item Fulfillment Stage" to "Shipped"
 
 ## 6. Enable Warehouse Management Feature
 
