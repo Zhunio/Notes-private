@@ -104,18 +104,18 @@ Zhunio ~ Template
     - [x] Bishwat
     - [x] James
 
-## 9. Enable Warehouse Management for Locations
+## 9. Activate the Enable Warehouse Management system rule
+
+- Using the **WMS Warehouse Manager** role, go to WMS Configuration > Configure Warehouse -> System Rules
+- Activate the following rules:
+  - [x] Enable Warehouse Management
+
+## 10. Enable Warehouse Management for Locations
 
 - Go to Setup > Company > Locations
 - For each location
   - [ ] Check the "Use BINS" box
   - [ ] Check the "Use Warehouse Management" box
-
-## 10. Activate the Enable Warehouse Management system rule
-
-- Using the **WMS Warehouse Manager** role, go to WMS Configuration > Configure Warehouse -> System Rules
-- Activate the following rules:
-  - [ ] Enable Warehouse Management
 
 ## 11. Warehouse Management Roles and Permissions
 
