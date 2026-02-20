@@ -80,8 +80,10 @@
 
 ## 6. Setup Custom Label for WMS Mobile App
 
-- [ ] Go to LPC Admin > Configuration > Label Design
-- Edit the "3x2 ITEM RECEIPT LABEL (LOT QR)" template
+- [x] Go to LPC Admin > Configuration > Label Design
+- [~] Edit the "3x2 ITEM RECEIPT LABEL (LOT QR)" template
+
+Zhunio ~ Template
 
 ## 7. Enable Warehouse Management Feature
 
