@@ -53,10 +53,10 @@
 
 - [x] Go to Lists > Mass Update > Mass Updates
 - [x] Go to General Updates > Items > Assembly/Inventory Item
-- [x] In the Results tab, add the following fields:
+- [~] In the Results tab, add the following fields:
   - [x] WMS MIX LOTS IN BINS
   - [x] WMS MIX ITEMS IN BINS
-- [x] In the Mass Update Fields tab, add the following fields:
+- [~] In the Mass Update Fields tab, add the following fields:
   - [x] WMS MIX LOTS IN BINS - Set to "Yes"
   - [x] WMS MIX ITEMS IN BINS - Set to "Yes"
 
