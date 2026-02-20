@@ -2,34 +2,34 @@
 
 ## 1. Installing the Netsuite WMS SuiteApps
 
-- [x] Go to Customization > SuiteBundler > Search & Install Bundles
-- [x] Install the following bundles:
+- Go to Customization > SuiteBundler > Search & Install Bundles
+- Install the following bundles:
   - [x] SCM Mobile - **572631**
   - [x] Oracle Netsuite WMS - **572325**
 
 ## 2. Enabling Prerequisite Features for Netsuite WMS
 
-- [x] Go to Setup > Company > Enable Features
-  - [x] Company
+- Go to Setup > Company > Enable Features
+  - Company
     - [x] Multiple Units of Measure
-  - [x] Transactions
+  - Transactions
     - [x] Advanced Shipping
-  - [x] Items & Inventory
+  - Items & Inventory
     - [x] Inventory (Basic Inventory Management)
     - [x] Multi-Location Inventory
     - [x] Bin Management
     - [x] Advanced Bin / Numbered Inventory Management
     - [x] Advanced Inventory Management
-  - [x] SuiteCloud
+  - SuiteCloud
     - [x] Custom Records
     - [x] Advanced PDF/HTML Templates
     - [x] Client SuiteScript
     - [x] Server SuiteScript
-  - [x] Additional Features for Netsuite WMS
-    - [x] Transactions
+  - Additional Features for Netsuite WMS
+    - Transactions
       - [x] Inbound Shipment Management
       - [x] Advanced Receiving
-    - [x] Items & Inventory
+    - Items & Inventory
       - [x] Warehouse Management
       - [x] Intercompany Cross-Subsidiary Fulfillment
       - [x] Bar Coding and Item Labels
@@ -43,44 +43,44 @@
 
 ## 3. Add "WMS Mixed Items" fields to Custom Form
 
-- [x] Go to Assembly/Inventory Item (i.e "ANCDPZ03GG", "2OZBASTUBE") > Edit > Customize > Custom Form
-- [x] Go to Fields > NS WMS
-- [x] Check the "Show" box for the following fields:
+- Go to Assembly/Inventory Item (i.e "ANCDPZ03GG", "2OZBASTUBE") > Edit > Customize > Custom Form
+- Go to Fields > NS WMS
+- Check the "Show" box for the following fields:
   - [x] WMS MIX LOTS IN BINS
   - [x] WMS MIX ITEMS IN BINS
 
 ## 4. Enable Pick, Pack, and Ship Feature
 
-- [x] Go to Setup > Company > Enable Features
-  - [x] Transactions
+- Go to Setup > Company > Enable Features
+  - Transactions
     - [x] Pick, Pack, and Ship
-- [x] Go to Setup > Accounting > Shipping
-- [x] Change "Default Item Fulfillment Stage" to "Shipped"
+- Go to Setup > Accounting > Shipping
+  - [x] Change "Default Item Fulfillment Stage" to "Shipped"
 
 ## 5. Setup WMS Mass Update for Item records
 
 ### Create Mass Update "WMS - {Item} - Enable WMS MIX LOTS/ITEMS IN BINS"
 
-- [x] Go to Lists > Mass Update > Mass Updates
-- [x] Go to General Updates > Items
-- [x] For each of the following Item(s): Assembly, Inventory Item
-- [x] Create New Mass Update: "WMS - {Item} - Enable WMS MIX LOTS/ITEMS IN BINS"
-  - [x] In the Results tab, add the following fields:
+- Go to Lists > Mass Update > Mass Updates
+- Go to General Updates > Items
+- For each of the following Item(s): Assembly, Inventory Item
+- Create New Mass Update: "WMS - {Item} - Enable WMS MIX LOTS/ITEMS IN BINS"
+  - In the Results tab, add the following fields:
     - [x] WMS MIX LOTS IN BINS
     - [x] WMS MIX ITEMS IN BINS
-  - [x] In the Mass Update Fields tab, add the following fields:
+  - In the Mass Update Fields tab, add the following fields:
     - [x] WMS MIX LOTS IN BINS - Set to "Yes"
     - [x] WMS MIX ITEMS IN BINS - Set to "Yes"
 
 ### Run Mass Update "WMS - {Item} - Enable WMS MIX LOTS/ITEMS IN BINS"
 
-- [x] Go to Lists > Mass Update > Saved Mass Update
-- [x] For each of the following Item(s): Assembly, Inventory Item
+- Go to Lists > Mass Update > Saved Mass Update
+- For each of the following Item(s): Assembly, Inventory Item
 - [x] Run the "WMS - {Item} - Enable WMS MIX LOTS/ITEMS IN BINS"
 
 ## 6. Setup Custom Label for WMS Mobile App
 
-- [x] Go to LPC Admin > Configuration > Label Design
+- Go to LPC Admin > Configuration > Label Design
 - [~] Edit the "3x2 ITEM RECEIPT LABEL (LOT QR)" template
 
 Zhunio ~ Template
